@@ -15,7 +15,7 @@
 """  # noqa: E501
 
 
-__version__ = "1.0.0"
+__version__ = "0.1.0"
 
 # import apis into sdk package
 from async_anchio.api.default_api import DefaultApi
